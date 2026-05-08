@@ -120,7 +120,7 @@ The schedule is subject to further changes.
   - 10:35 *Coffee break*
   - 11:00 Working session for developers
   - 11:30 *Lunch break*
-  - 13:00 **Session in honour of Leonard Soicher**
+  - 13:00 **Session in honour of Leonard Soicher's 70th birthday**
     - 13:00-13:30 Talk: *“Some of what I’ve learned from Leonard”* (Cheryl Praeger, online)
     - 13:45-14:15 Talk: *"Computing the intersection of matrix groups"* (Charles Leedham-Green, online)
     - 14:15 Break
